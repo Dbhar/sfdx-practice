@@ -1,2 +1,0 @@
-# sfdx-practice
-SFDX Practice
